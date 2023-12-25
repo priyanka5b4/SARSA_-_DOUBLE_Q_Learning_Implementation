@@ -1,7 +1,7 @@
 # Title: SARSA and Double Q-Learning Project
 
 ## Description
-This project focuses on the implementation and analysis of two reinforcement learning algorithms: SARSA (State-Action-Reward-State-Action) and Double Q-Learning. These methods are explored to solve [specific problem or environment, e.g., a maze-solving task, a game, etc.]. The project aims to compare the efficiency, learning rate, and overall performance of these algorithms under various conditions.
+This project focuses on the implementation and analysis of two reinforcement learning algorithms: SARSA (State-Action-Reward-State-Action) and Double Q-Learning. These methods are explored to solve a environment based on agent reaching destination in a maze like environment. The project aims to compare the efficiency, learning rate, and overall performance of these algorithms under various conditions.
 
 ## Dependencies
 ```bash
